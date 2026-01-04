@@ -17,8 +17,8 @@
 - Machine Learning • Tensorflow • Pytorch • LLMs • Ollama
   
 **Tools & Platforms**
-- Git, GitHub, GitLab
-- MySQL, MongoDB
+- Git • GitHub • GitLab
+- MySQL • MongoDB
 
 ---
 
