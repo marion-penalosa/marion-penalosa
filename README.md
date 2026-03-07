@@ -2,7 +2,7 @@
 
 👨‍💻 **Programmer Analyst** working on **Core Banking Systems** at **Metrobank**  
 🎓 **BS Computer Science (Data Science)** — University of Santo Tomas, Philippines 🐯  
-🧠 Currently deepening my skills in **Data Analytics, Machine Learning, and AI** using **Python**
+🧠 Currently deepening my skills in **Full-stack development** using **Java Springboot**
 
 ---
 
